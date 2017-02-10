@@ -1,0 +1,21 @@
+{
+  "name": "shortsbot",
+  "version": "1.0.0",
+  "description": "A bot that says when to wear shorts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "bots",
+    "chatbots",
+    "weather"
+  ],
+  "author": "peter@thislittleduck.com",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.4.10",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
